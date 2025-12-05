@@ -7,19 +7,17 @@ modified: 2025-10-16T09:14:57+02:00
 
 ## L’homme est une trinité [>](l-homme-est-une-trinite)
 
-Corps, âme et esprit.
+Corps, âme et esprit.  
 Physique, psychique et spirituelle.
 
 ## La famille est une trinité
 
-Père, mère et enfant: La famille humaine
-Joseph, Marie et Jésus: La Sainte Famille
+Père, mère et enfant: La famille humaine.  
+Joseph, Marie et Jésus: La Sainte Famille.
 
-## L'univers est une trinité.
+## L'univers est une trinité. [>](l-univers-est-une-trinite)
 
-Le temps, l’espace et la matière interagissent ensemble pour former tout ce qui se trouve dans l’univers, tout ce qui vit, et tout ce qui abrite la vie.
-
-[Plus d'informations dans l'écrit dédié.](l-univers-est-une-trinite)
+Le temps, l’espace et la matière.
 
 ## L’atome est une trinité
 
@@ -33,11 +31,9 @@ Elle est constituée d'un atome d'oxygène relié à deux atomes d'hydrogène (H
 
 L'air sec se compose d'environ 78 % d'azote, 21 % d'oxygène et 1 % d'argon.
 
-## Le feu est une trinité
+## Le feu est une trinité [>](le-feu-est-une-trinite)
 
 Un combustible, un comburant (dioxygène), et une énergie d'activation.
-
-La réaction chimique de la combustion ne peut se produire que si l'on réunit au minimum trois éléments : un combustible, un comburant (dioxygène), et une énergie d'activation, chacun en quantité suffisante. C'est pourquoi on parle du « triangle du feu ».
 
 ## Le soleil est une trinité
 
@@ -47,7 +43,7 @@ Le soleil, c’est le Père.
 Le rayon du soleil, c’est le Fils.  
 La chaleur, c’est le Saint-Esprit.
 
-Qui peut regarder le soleil en face ? Personne. Si vous le regardez, vous êtes ébloui.
+Qui peut regarder le soleil en face? Personne. Si vous le regardez, vous êtes ébloui.
 
 # La couleur est une trinité
 
