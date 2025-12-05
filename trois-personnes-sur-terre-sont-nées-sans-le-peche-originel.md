@@ -1,5 +1,7 @@
 # Trois personnes sur terre sont nées sans le péché originel
 
+## Jésus rappelle la présanctification du Baptiste lors de la Visitation.
+
 Le dernier des prophètes d'Israël n'est pas Celui qui descend du Ciel, mais ayant reçu le bénéfice des dons divins dès le sein de sa mère - vous ne le savez pas, mais Moi, je vous le dis - c'est celui qui est le plus proche du Ciel."
 
 "Quoi ? Quoi ? Oh! Raconte ! Il dit de lui-même : "Je suis le pécheur".
@@ -12,4 +14,4 @@ Les trois bergers sont anxieux de savoir et les disciples aussi ont le même dé
 
 "Et ma Mère est l'Abîme de la Pureté, de la Grâce, de la Charité, de l'Obéissance, de l'Humilité, de toute autre vertu dont la source est en Dieu et que Dieu verse en ses saints."
 
-https://www.maria-valtorta.org/Publication/TOME%2002/02-094.htm#CEV12705
+[Maria Valtorta - L'Évangile tel qu'il m'a été révélé - Tome 2, chapitre 127](https://www.maria-valtorta.org/Publication/TOME%2002/02-094.htm#CEV12705)
