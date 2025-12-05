@@ -5,12 +5,10 @@ modified: 2025-10-16T09:14:57+02:00
 
 # La Trinité
 
-## L’homme est une trinité
+## L’homme est une trinité [>](l-homme-est-une-trinite)
 
 Corps, âme et esprit.
 Physique, psychique et spirituelle.
-
-[Plus d'informations dans l'écrit dédié.](l-homme-est-une-trinite)
 
 ## La famille est une trinité
 
