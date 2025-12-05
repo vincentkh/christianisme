@@ -1,2 +1,3 @@
 ## Écrits
-- [La Trinité](trinité)
+
+- [La Trinité](trinite)
