@@ -36,7 +36,7 @@ C’était le lundi 25 septembre 492, les Goths envoyèrent un messager, porteur
 
 Ce qui fut fait.
 
-Voici l’aurore du 29 septembre, un vendredi.
+Voici l’aurore du **29 septembre**, un vendredi.
 
 L’évêque était en prière dans l’église Sainte-Marie. Saint Michel lui apparut, lui promettant la victoire et lui intimant l’ordre de ne pas attaquer l’ennemi avant 14 heures (qui fait 16 heures, heure locale), afin que le soleil soit témoin de sa puissance.
 
@@ -54,13 +54,13 @@ Et chacun baisait ces traces, qui étaient un témoignage de la présence de l'A
 
 ## Troisième Apparition de Saint Michel sur le Mont Gargan lors de la dédicace de la Basilique
 
-Le 8 mai 493, l'évêque de Siponto alla au Gargan avec son peuple, célébrer le troisième anniversaire de la première apparition de Saint Michel dans la grotte sacrée. Proche même pas le saint pasteur, n'osait y entrer, malgré le désir d'y pénétrer afin d'offrir le saint sacrifice et de la dédier suivant l'usage de l'Église romaine.
+Le **8 mai** 493, l'évêque de Siponto alla au Gargan avec son peuple, célébrer le troisième anniversaire de la première apparition de Saint Michel dans la grotte sacrée. Proche même pas le saint pasteur, n'osait y entrer, malgré le désir d'y pénétrer afin d'offrir le saint sacrifice et de la dédier suivant l'usage de l'Église romaine.
 
 Par crainte et par respect du retentissement des foudres angéliques, personne n'y pénétra ce jour-là, et on décida d'attendre la décision du souverain pontife.
 
 On envoya donc une députation au pape Gélase, qui se trouvait à ce moment au col de Saint Sylvestre.
 
-Celui-ci, considérant les merveilleuses apparitions de l'Archange, répondit que, à son avis, il vaudrait mieux choisir le jour du 29 septembre, date de la victoire remportée sur les Goths, mais qu'il fallait attendre le bon vouloir de l'Archange, qui ne tarderait pas à se manifester. « Nous le prierons pendant trois jours », dit-il, « en l'honneur de la Sainte-Trinité, vous ferez de même dans votre cité. » Après cette réponse, l'évêque invita sept évêques voisins à venir à Siponto dès le 21 septembre, pour les trois jours de jeûne et de prière et pour la dédicace.
+Celui-ci, considérant les merveilleuses apparitions de l'Archange, répondit que, à son avis, il vaudrait mieux choisir le jour du **29 septembre**, date de la victoire remportée sur les Goths, mais qu'il fallait attendre le bon vouloir de l'Archange, qui ne tarderait pas à se manifester. « Nous le prierons pendant trois jours », dit-il, « en l'honneur de la Sainte-Trinité, vous ferez de même dans votre cité. » Après cette réponse, l'évêque invita sept évêques voisins à venir à Siponto dès le 21 septembre, pour les trois jours de jeûne et de prière et pour la dédicace.
 
 Les sept évêques invités arrivèrent donc pour rendre hommage à l'Archange. Une légende veut même que, durant leur voyage sous les ardeurs du soleil, un aigle énorme, aux ailes démesurément grandes, leur fît ombrage sur les routes et rafraîchit l'air du battement de ses ailes. Ils s'assemblèrent le 26 septembre pour commencer, avec le jeûne, des prières, des rites et des saintes veilles, en même temps que le pape faisait ainsi à Rome.
 
@@ -84,6 +84,6 @@ S'avançant encore au chant du **« Te deum »**, l'évêque Laurent découvre d
 
 Tout ceci constaté, l'évêque de Siponto poursuivit sur l'autel édifié par les Anges, à l'intérieur, la sainte messe et communia le peuple. Ensuite, trois autres autels furent placés dans cette grotte et consacrés.
 
-La basilique du Gargan est la seule au monde, consacrée par Saint Michel et les Anges; c'est cette dédicace par les Anges que célèbre l'Église le 29 septembre de chaque année.
+La basilique du Gargan est la seule au monde, consacrée par Saint Michel et les Anges; c'est cette dédicace par les Anges que célèbre l'Église le **29 septembre** de chaque année.
 
 Tout le peuple bénéficia des bienfaits de l'Archange : conversions, guérisons, vue rendue aux aveugles, miracles sans nombre.
