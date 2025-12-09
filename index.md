@@ -5,3 +5,4 @@
 - [La vision du Pape Léon XIII](vision-pape-leon-13)
 - [Les onze anges guardiens du Pape](les-onze-anges-guardiens-du-pape)
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
+- [Apparition de Saint Michel en Sicile - Italie](apparition-de-saint-michel-en-sicile-italie)
