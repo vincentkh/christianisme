@@ -1,10 +1,10 @@
-## Écrits
+# Écrits
 
 - [La Trinité](trinite)
 - [Trois personnes sur terre sont nées sans le péché originel](trois-personnes-sur-terre-sont-nées-sans-le-peche-originel)
 - [Les onze anges gardiens du Pape](les-onze-anges-gardiens-du-pape)
 
-### Saint Michel
+## Saint Michel
 
 - [Apparitions de Saint Michel au mont Gargan - Italie](apparitions-de-saint-michel-au-mont-gargan-italie)
 - [Apparition de Saint Michel en Sicile - Italie](apparition-de-saint-michel-en-sicile-italie)
