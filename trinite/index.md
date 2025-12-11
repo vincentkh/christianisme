@@ -1,11 +1,6 @@
----
-created: 2025-10-16T08:56:44+02:00
-modified: 2025-10-16T09:14:57+02:00
----
-
 # La Trinité
 
-## L’homme est une trinité [>](trinite/l-homme-est-une-trinite)
+## L’homme est une trinité [>](l-homme-est-une-trinite)
 
 Corps, âme et esprit.  
 Physique, psychique et spirituelle.
@@ -15,11 +10,11 @@ Physique, psychique et spirituelle.
 Père, mère et enfant: La famille humaine.  
 Joseph, Marie et Jésus: La Sainte Famille.
 
-## L'univers est une trinité. [>](trinite/l-univers-est-une-trinite)
+## L'univers est une trinité. [>](l-univers-est-une-trinite)
 
 Le temps, l’espace et la matière.
 
-## L’atome est une trinité [>](trinite/l-atome-est-une-trinite)
+## L’atome est une trinité [>](l-atome-est-une-trinite)
 
 Proton, neutron et électron.
 
@@ -31,7 +26,7 @@ Elle est constituée d'un atome d'oxygène relié à deux atomes d'hydrogène (H
 
 L'air sec se compose d'environ 78 % d'azote, 21 % d'oxygène et 1 % d'argon.
 
-## Le feu est une trinité [>](trinite/le-feu-est-une-trinite)
+## Le feu est une trinité [>](le-feu-est-une-trinite)
 
 Un combustible, un comburant (dioxygène), et une énergie d'activation.
 
