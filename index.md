@@ -14,6 +14,8 @@
 - [La vision du Pape Léon XIII](saint-michel/vision-pape-leon-13)
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](saint-michel/poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
 
+## Saint Charbel [>](saint-charbel)
+
 ## Prières
 
 - [La prière à faire avant des décisions importantes](prieres/la-priere-a-faire-avant-des-decisions-importantes)
