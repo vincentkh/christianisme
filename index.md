@@ -6,13 +6,13 @@
 
 ## Saint Michel
 
-- [Apparitions de Saint Michel au mont Gargan - Italie](apparitions-de-saint-michel-au-mont-gargan-italie)
-- [Apparition de Saint Michel en Sicile - Italie](apparition-de-saint-michel-en-sicile-italie)
-- [Apparition de Saint Michel à Procida - Île d’Italie](apparition-de-saint-michel-a-procida-italie)
-- [Apparition de Saint Michel en France à Domrémy](apparition-de-saint-michel-a-domremy-france)
-- [Apparition de Saint Michel à l'empereur Eric, le boiteux](apparition-de-saint-michel-a-l-empereur-eric-le-boiteux)
-- [La vision du Pape Léon XIII](vision-pape-leon-13)
-- [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
+- [Apparitions de Saint Michel au mont Gargan - Italie](saint-michel/apparitions-de-saint-michel-au-mont-gargan-italie)
+- [Apparition de Saint Michel en Sicile - Italie](saint-michel/apparition-de-saint-michel-en-sicile-italie)
+- [Apparition de Saint Michel à Procida - Île d’Italie](saint-michel/apparition-de-saint-michel-a-procida-italie)
+- [Apparition de Saint Michel en France à Domrémy](saint-michel/apparition-de-saint-michel-a-domremy-france)
+- [Apparition de Saint Michel à l'empereur Eric, le boiteux](saint-michel/apparition-de-saint-michel-a-l-empereur-eric-le-boiteux)
+- [La vision du Pape Léon XIII](saint-michel/vision-pape-leon-13)
+- [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](saint-michel/poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
 
 ## Prières
 
