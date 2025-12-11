@@ -18,3 +18,4 @@
 
 - [La prière à faire avant des décisions importantes](la-priere-a-faire-avant-des-decisions-importantes)
 - [Prière à Saint Raphaël](priere-a-saint-raphael)
+- [Prière de Saint François de Sales](priere-de-saint-francois-de-sales)
