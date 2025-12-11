@@ -24,3 +24,4 @@
 - [Prière de Saint François de Sales](prieres/priere-de-saint-francois-de-sales)
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
 - [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
+- [Prière pour la France à Saint Michel](prieres/priere-pour-la-france-a-saint-michel)
