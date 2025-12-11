@@ -40,7 +40,7 @@ La chaleur, c’est le Saint-Esprit.
 
 Qui peut regarder le soleil en face? Personne. Si vous le regardez, vous êtes ébloui.
 
-# La couleur est une trinité
+## La couleur est une trinité
 
 Ce sont le rouge, le jaune et le bleu.  
 Elles sont dites primaires car elles ne peuvent être obtenues par le mélange d'autres couleurs.  
