@@ -18,6 +18,7 @@
 
 ## Prières
 
+- [Communion Spirituelle](prieres/communion-spirituelle)
 - [La prière à faire avant des décisions importantes](prieres/la-priere-a-faire-avant-des-decisions-importantes)
 - [Prière à Saint Raphaël](prieres/priere-a-saint-raphael)
 - [Prière de Saint François de Sales](prieres/priere-de-saint-francois-de-sales)
