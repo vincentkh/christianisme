@@ -25,3 +25,4 @@
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
 - [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
 - [Prière pour la France à Saint Michel](prieres/priere-pour-la-france-a-saint-michel)
+- [Prière à Sainte Thérèse de l'Enfant Jésus](prieres/priere-a-sainte-therese-de-l-enfant-jesus)
