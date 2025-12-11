@@ -13,3 +13,8 @@
 - [Apparition de Saint Michel à l'empereur Eric, le boiteux](apparition-de-saint-michel-a-l-empereur-eric-le-boiteux)
 - [La vision du Pape Léon XIII](vision-pape-leon-13)
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
+
+## Prières
+
+- [La prière à faire avant des décisions importantes](la-priere-a-faire-avant-des-decisions-importantes)
+- [Prière à Saint Raphaël](priere-a-saint-raphael)
