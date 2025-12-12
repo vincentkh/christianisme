@@ -24,6 +24,8 @@ Nul doute que Saint Michel ne vint prendre sa belle âme, lorsqu'elle cria le no
 
 Les Anglais étaient chassés définitivement de France et le roi récupérait son trône.
 
-On raconta qu'elle répétait souvent les paroles qu'elle devait tenir de Saint Michel: «Faites, Seigneur, que votre nom demeure, sur notre sol de France et que dans son peuple, ne manquent jamais l'Hostie et le Sacrifice.»
+On raconta qu'elle répétait souvent les paroles qu'elle devait tenir de Saint Michel:
+
+> Faites, Seigneur, que votre nom demeure, sur notre sol de France et que dans son peuple, ne manquent jamais l'Hostie et le Sacrifice.
 
 ![Apparition de Saint Michel à Jeanne d'Arc](apparition-saint-michel-jeanne-d-arc.jpg)
