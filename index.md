@@ -28,3 +28,4 @@
 - [Prière à Sainte Thérèse de l'Enfant Jésus](prieres/priere-a-sainte-therese-de-l-enfant-jesus)
 - [Prière de Sainte Faustine](prieres/priere-de-sainte-faustine)
 - [Acte de Contrition](prieres/acte-de-contrition)
+- [Poésie de Sainte Thérèse d’Avila](prieres/poesie-de-saint-therese-d-avila)
