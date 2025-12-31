@@ -3,6 +3,7 @@
 - [La Trinité](trinite)
 - [Trois personnes sur terre sont nées sans le péché originel](trois-personnes-sur-terre-sont-nées-sans-le-peche-originel)
 - [Les onze anges gardiens du Pape](les-onze-anges-gardiens-du-pape)
+- [Quand viendra ton heure, Jésus viendra lui-même te chercher](quand-viendra-ton-heure-jesus-viendra-lui-meme-te-chercher)
 
 ## L'Église Catholique [>](l-eglise-catholique)
 
