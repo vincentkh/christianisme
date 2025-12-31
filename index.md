@@ -4,6 +4,8 @@
 - [Trois personnes sur terre sont nées sans le péché originel](trois-personnes-sur-terre-sont-nées-sans-le-peche-originel)
 - [Les onze anges gardiens du Pape](les-onze-anges-gardiens-du-pape)
 
+## L'Église Catholique [>](l-eglise-catholique)
+
 ## Saint Michel
 
 - [Apparitions de Saint Michel au mont Gargan - Italie](saint-michel/apparitions-de-saint-michel-au-mont-gargan-italie)
@@ -15,6 +17,8 @@
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](saint-michel/poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
 
 ## Saint Charbel [>](saint-charbel)
+
+## Saint Padre Pio [>](saint-padre-pio)
 
 ## Prières
 
