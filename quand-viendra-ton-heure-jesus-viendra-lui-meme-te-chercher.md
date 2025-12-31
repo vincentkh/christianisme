@@ -78,4 +78,5 @@ Quand tu mourras, tu mettras ton cœur blessé sur la Blessure du Mien (20.8.37 
 
 À la campagne. Comme je regardais le soleil levant : Ma lumière se lèvera sur toi au dernier jour. Quel ne sera pas ton ravissement ! Tu connaîtras les bienfaits du salut, tu seras enveloppée de Ma Miséricorde et comme submergée (22.8.40 ; I 28).
 
+![Les messages d'amour de Jésus à Gabrielle Bossis une disciple de Thérèse](/images/les-messages-d-amour-de-jesus-a-gabrielle-bossis-une-disciple-de-therese.jpeg)
 [Les messages d'amour de Jésus à Gabrielle Bossis une disciple de Thérèse]()
