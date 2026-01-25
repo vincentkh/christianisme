@@ -34,3 +34,5 @@
 - [Prière de Sainte Faustine](prieres/priere-de-sainte-faustine)
 - [Acte de Contrition](prieres/acte-de-contrition)
 - [Poésie de Sainte Thérèse d’Avila](prieres/poesie-de-saint-therese-d-avila)
+- [Prière aux sept Princes de la milice céleste](priere-aux-sept-princes-de-la-milice-celeste)
+- [Prière aux trois Archanges](priere-aux-trois-archanges)
