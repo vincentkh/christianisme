@@ -1,5 +1,9 @@
 # Neuvaine à Saint Charbel
 
+- [Premier jour - Une vie sainte](#premier-jour-une-vie-sainte)
+- [Deuxième jour - À l’écoute de Dieu](#deuxième-jour-a-l-ecoute-de-dieu)
+- [Troisième jour - Savoir donner](#troisieme-jour-savoir-donner)
+
 ## Premier jour - Une vie sainte
 
 Saint Charbel nous a démontré que les vrais trésors sont du domaine de l'âme et du cœur. Bien sûr, le confort et le bien-être nous permettent d'apprécier la vie. Mais, il a plus que cela... il y a ce chemin le moins fréquenté en notre monde, le chemin de l'intérieur où nous rencontrons nos vrais désirs, nos vrais besoins. Une vie sainte est une recherche du véritable amour qui doit habiter nos pensées, nos gestes, nos décisions dans le quotidien de nos vies.
@@ -12,7 +16,7 @@ Ce désir de grandir chaque jour comme enfant de Dieu, d'accomplir la promesse d
 
 Demandons aujourd’hui à saint Charbel de nous aider à trouver au fond de notre cœur, le chemin qui conduit à la sainteté, nous guide à la vraie lumière et qui nous amène sur la route de l’amour et de la charité.
 
-[Se rendre à la section "Demandes et L'amour et la charité" afin de compléter la journée](demandes)
+[Se rendre à la section "Demandes et L'amour et la charité" afin de compléter la journée](neuvaine-a-saint-charbel#demandes)
 
 ## Deuxième jour - À l’écoute de Dieu
 
@@ -27,7 +31,7 @@ C’est par la méditation, l'oraison, la prière personnelle et communautaire q
 
 Demandons aujourd’hui à saint Charbel de nous apprendre à s’arrêter pour faire silence, pour être à l'écoute de Dieu qui nous guide à travers de ce que nous vivons.
 
-[Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](demandes)
+[Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](neuvaine-a-saint-charbel#demandes)
 
 ### Troisième jour - Savoir donner
 
@@ -39,7 +43,7 @@ Le Christ nous appelle à donner gratuitement chaque jour à donner sans attendr
 
 Demandons aujourd’hui à saint Charbel de nous aider à mettre de côté nos égoïsmes, afin de goûter au vrai bonheur de la vie, celui d’être au service des autres.
 
-[Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](demandes)
+[Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](neuvaine-a-saint-charbel#demandes)
 
 ### Demandes
 
