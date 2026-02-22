@@ -2,7 +2,7 @@
 
 - [Premier jour - Une vie sainte](#premier-jour-une-vie-sainte)
 - [Deuxième jour - À l’écoute de Dieu](#deuxième-jour-a-l-ecoute-de-dieu)
-- [Troisième jour - Savoir donner](#troisieme-jour-savoir-donner)
+- [Troisième jour - Savoir donner](#troisième-jour-savoir-donner)
 
 ## Premier jour - Une vie sainte
 
@@ -33,7 +33,7 @@ Demandons aujourd’hui à saint Charbel de nous apprendre à s’arrêter pour 
 
 [Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](neuvaine-a-saint-charbel#demandes)
 
-### Troisième jour - Savoir donner
+## Troisième jour - Savoir donner
 
 Il est très humain de vouloir posséder, avoir, acquérir, assurer son avenir, sa sécurité financière. Lors des tentations au désert, Jésus a refusé le pouvoir, la gloire et la richesse en nous rappelant que l’essentiel, le plus grand amour, le vrai bonheur est de donner sa vie pour ceux qu'on aime. « Il n’y a pas de plus grand amour que de donner sa vie pour ses amis. » (Jn 15, 13).
 
