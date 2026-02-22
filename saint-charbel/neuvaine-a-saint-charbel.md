@@ -8,7 +8,7 @@
 - [Sixième jour - En communion avec Dieu](#sixième-jour---en-communion-avec-dieu)
 - [Septième jour - La force de la prière](#septième-jour---la-force-de-la-prière)
 - [Huitième jour - Faire le bien](#huitième-jour---faire-le-bien)
-- [Neuvième jour - L’austérité, chemin vers la lumière](#neuvième-jour---l’austérité-chemin-vers-la-lumière)
+- [Neuvième jour - L’austérité, chemin vers la lumière](#neuvième-jour---laustérité-chemin-vers-la-lumière)
 
 ## Premier jour - Une vie sainte
 
@@ -29,7 +29,7 @@ Demandons aujourd’hui à saint Charbel de nous aider à trouver au fond de not
 Il y a en notre monde tant de bruits et de distractions extérieures ; il n'est pas facile de s'arrêter et de prendre du temps pour soi, du temps de recueillement et de prière, de faire silence.
 
 > Dieu est l'ami du silence. Les arbres, les fleurs et l'herbe poussent en silence. Regarde les étoiles, la lune et le soleil, comment ils se meuvent silencieusement.
-> Mère Teresa
+> **Mère Teresa**
 
 Le silence n'est pas un simple vide, il est habité par Dieu et à travers nos silences, Dieu nous accompagne, il nous écoute, il nous parle et nous répond.
 
@@ -62,7 +62,7 @@ Se mettre au service de l’autre, c’est tout d’abord répondre aux demandes
 > Comment satisfaire les besoins du regard de Dieu, sinon en se tenant simplement et amoureusement tourné vers lui afin qu'il puisse refléter sa propre image, comme le soleil se reflète au travers d'un pur cristal ?
 > Sainte Élisabeth de la Trinité
 
-Penser et aider les plus petits, nous aidera à être heureux, se sentir utile en toute modestie et humilité. Il nous libérera ainsi de nos chaînes qui nous tiennent prisonnier : orgueil, vanité, ingratitude. Il nous rendra enfin libre.
+Penser et aider les plus petits, nous aidera à être heureux, se sentir utile en toute modestie et humilité. Il nous libérera ainsi de nos chaînes qui nous tiennent prisonnier: orgueil, vanité, ingratitude. Il nous rendra enfin libre.
 
 [Se rendre à la section "Demandes et L'Amour et la Charité" afin de compléter la journée](neuvaine-a-saint-charbel#demandes)
 
@@ -88,7 +88,9 @@ Nous apprenons au fil des jours à avoir un cœur commun. C'est ce qui devrait �
 
 L'Église est la grande famille de Dieu où l'on apprend comme chrétiens et chrétiennes, l'expérience de la communion par la solidarité, la justice, la prière, l'accueil et la mise en pratique de la Parole de Dieu.
 
-Par l'Eucharistie, nous vivons l'expérience de la communion, Dieu vient nous nourrir, habiter en nous par sa Parole et par le Pain de Vie. Jésus dit : « Le Père est en moi et moi je suis dans le Père ». (Jn 14, 11)
+Par l'Eucharistie, nous vivons l'expérience de la communion, Dieu vient nous nourrir, habiter en nous par sa Parole et par le Pain de Vie. Jésus dit:
+
+> Le Père est en moi et moi je suis dans le Père (Jn 14, 11)
 
 La communion c'est avoir un cœur débordant de la présence de Dieu qui nous donne son amour.
 
