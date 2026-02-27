@@ -41,4 +41,5 @@
 
 # Neuvaines
 
+- [Neuvaine à Saint Michel](saint-michel/neuvaine-a-saint-michel)
 - [Neuvaine à Saint Charbel](saint-charbel/neuvaine-a-saint-charbel)
