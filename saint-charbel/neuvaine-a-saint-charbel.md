@@ -16,7 +16,8 @@ Saint Charbel nous a démontré que les vrais trésors sont du domaine de l'âme
 
 Jésus nous dit:
 
-> Je suis la lumière du monde; celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie. » (Jn 8,12)
+> Je suis la lumière du monde; celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie.  
+> **Jean 8,12**
 
 Ce désir de grandir chaque jour comme enfant de Dieu, d'accomplir la promesse de notre Baptême, d'être en relation, en dialogue avec Dieu à chacun de nos pas et de faire de notre vie, une histoire d'amour, à la suite de Jésus et sous le souffle de l'Esprit.
 
@@ -28,7 +29,7 @@ Demandons aujourd’hui à saint Charbel de nous aider à trouver au fond de not
 
 Il y a en notre monde tant de bruits et de distractions extérieures ; il n'est pas facile de s'arrêter et de prendre du temps pour soi, du temps de recueillement et de prière, de faire silence.
 
-> Dieu est l'ami du silence. Les arbres, les fleurs et l'herbe poussent en silence. Regarde les étoiles, la lune et le soleil, comment ils se meuvent silencieusement.
+> Dieu est l'ami du silence. Les arbres, les fleurs et l'herbe poussent en silence. Regarde les étoiles, la lune et le soleil, comment ils se meuvent silencieusement.  
 > **Mère Teresa**
 
 Le silence n'est pas un simple vide, il est habité par Dieu et à travers nos silences, Dieu nous accompagne, il nous écoute, il nous parle et nous répond.
@@ -59,8 +60,8 @@ Mais quel est le but de notre vie, est-ce avant tout, de rechercher la gloire, l
 
 Se mettre au service de l’autre, c’est tout d’abord répondre aux demandes de Dieu. Comment ? En posant d’abord sur lui son regard, le regard de Dieu. C’est-à-dire, un regard plein d’amour, de tendresse et de compassion, c’est travailler à établir le royaume des Cieux.
 
-> Comment satisfaire les besoins du regard de Dieu, sinon en se tenant simplement et amoureusement tourné vers lui afin qu'il puisse refléter sa propre image, comme le soleil se reflète au travers d'un pur cristal ?
-> Sainte Élisabeth de la Trinité
+> Comment satisfaire les besoins du regard de Dieu, sinon en se tenant simplement et amoureusement tourné vers lui afin qu'il puisse refléter sa propre image, comme le soleil se reflète au travers d'un pur cristal ?  
+> **Sainte Élisabeth de la Trinité**
 
 Penser et aider les plus petits, nous aidera à être heureux, se sentir utile en toute modestie et humilité. Il nous libérera ainsi de nos chaînes qui nous tiennent prisonnier: orgueil, vanité, ingratitude. Il nous rendra enfin libre.
 
@@ -72,7 +73,8 @@ Chacun de nous porte parfois des grands rêves et des grandes ambitions dans la 
 
 Chaque être humain est unique et aimé de Dieu, il est important de réfléchir et de rechercher la volonté de Dieu. À quoi Dieu nous appelle-t-il vraiment ?
 
-> Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge chaque jour de sa croix, et qu'il me suive. Car celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la sauvera. (Lc 9, 23-24)
+> Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge chaque jour de sa croix, et qu'il me suive. Car celui qui voudra sauver sa vie la perdra, mais celui qui la perdra à cause de moi la sauvera.  
+> **Luc 9, 23-24**
 
 Pour être à la suite de Jésus, la consigne est claire : rechercher le chemin de l'amour à la suite de Jésus, accepter Jésus comme Maître, Guide et Sauveur. Voilà le chemin du renoncement où nous pouvons chaque jour avancer où Dieu nous appelle et nous attend.
 
@@ -90,7 +92,8 @@ L'Église est la grande famille de Dieu où l'on apprend comme chrétiens et chr
 
 Par l'Eucharistie, nous vivons l'expérience de la communion, Dieu vient nous nourrir, habiter en nous par sa Parole et par le Pain de Vie. Jésus dit:
 
-> Le Père est en moi et moi je suis dans le Père (Jn 14, 11)
+> Le Père est en moi et moi je suis dans le Père.  
+> **Jean 14, 11**
 
 La communion c'est avoir un cœur débordant de la présence de Dieu qui nous donne son amour.
 
@@ -108,7 +111,8 @@ La prière est ce lien intérieur qui nous permet de différentes façons de nou
 
 Jésus dit:
 
-> Quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra. (Mt 6, 6)
+> Quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.  
+> **Matthieu 6, 6**
 
 Demandons aujourd’hui à saint Charbel de nous aider à retrouver le goût de la prière afin d’aller à la rencontre de Dieu et d’être à son écoute.
 
@@ -124,7 +128,8 @@ Les différents choix, les différentes options, les différents virages que nou
 
 Jésus nous invite à cette force du dépassement et du renoncement à l’égoïsme:
 
-> Si ta main droite est pour toi une occasion de chute, coupe-la et jette-la loin de toi (Mt 5, 30)
+> Si ta main droite est pour toi une occasion de chute, coupe-la et jette-la loin de toi.  
+> **Matthieu 5, 30**
 
 Il ne s’agit pas ici de se mutiler, mais plutôt de se dépasser, à vaincre ce qui nous empêche de semer la bonté et l’amour, comme Jésus. S’affranchir de ce qui nous empêche d’avancer sur le chemin de la charité.
 
@@ -142,7 +147,8 @@ Mais si l'austérité devient davantage pour nous l'expression d'un désir profo
 
 Il faut apprendre à s'abandonner à Dieu, à nous laisser guider par l'Esprit Saint, à faire de notre personne la maison de Dieu. Jésus, lui le Fils de Dieu a dit:
 
-> Père, entre tes mains je remets mon esprit. (Lc 23, 46).
+> Père, entre tes mains je remets mon esprit.  
+> **Luc 23, 46**
 
 Par cette parole, il nous apprend à faire confiance, à s’abandonner. Un jour, à la suite de Jésus, nous habiterons chez Dieu et notre vie de chaque jour est le chemin qui nous y conduit.
 
