@@ -6,6 +6,7 @@
 - [Quatrième jour - Grandeur de Saint Michel dans sa primauté sur les Anges](#quatrième-jour---grandeur-de-saint-michel-dans-sa-primauté-sur-les-anges)
 - [Cinquième jour - Grandeur de Saint Michel dans l'octroi des Anges gardiens](#cinquième-jour---grandeur-de-saint-michel-dans-loctroi-des-anges-gardiens)
 - [Sixième Jour - Grandeur de Saint Michel dans son pouvoir souverain sur les démons](#sixième-jour---grandeur-de-saint-michel-dans-son-pouvoir-souverain-sur-les-démons)
+- [Septième Jour - Grandeur de Saint Michel dans le Paradis](#septième-jour---grandeur-de-saint-michel-dans-le-paradis)
 
 ## Premier Jour - Grandeur de Saint Michel dans l’autorité
 
@@ -183,6 +184,39 @@ Je vous salue, Saint Michel, vainqueur des démons.
 ### Pratique
 
 Dans les tentations, tu invoqueras Saint Michel. « Saint Michel, défendez-moi dans les combats ».
+
+(Hymne)
+
+## Septième Jour - Grandeur de Saint Michel dans le Paradis
+
+1 . L’Église appelle Saint Michel « Le chef du Paradis » « Praepositus Paradisi ». Elle le porte ainsi au plus grand honneur qui puisse être fait à une créature.
+
+De même qu’ici-bas, Pierre a été établi chef visible de l’Église et vicaire du Christ, ainsi Saint Michel est par la volonté divine, au Ciel, chef de l’Église triomphante, le plus proche du trône de Dieu, le plus puissant et le plus élevé en dignité.
+
+2 . Le pharaon, roi d’Égypte, avait placé toutes les affaires de son royaume entre les mains de Joseph et l’avait élevé en dignité, le faisant presque son égal en puissance. De même, Saint Michel a été établi par Dieu sur toutes les affaires de l’Église militante et triomphante.
+
+Il préside et veille à tout. Son pouvoir et sa protection n’ont pas de bornes, sur les Anges, les Saints, les justes et tous les hommes. Il a tout et tous sous ses ordres.
+
+Dans le Ciel, il communique sa charité aux brûlants Séraphins, sa sagesse aux Chérubins, sa majesté aux Trônes, sa noblesse aux Dominations, sa puissance aux Puissances ; sa force merveilleuse aux Vertus, sa vigilance aux Principautés, sa providence aux Archanges, sa fidélité aux Anges. Et dans l’Église militante, aucune victoire ne se remporte sans lui, aucune difficulté n’est résolue sans son intervention ; aucune nécessité ne le laisse indifférent ; préposé du Paradis, il l’est aussi, au même titre, de la sainte Église.
+Béni soit Dieu d’avoir élevé ainsi Saint Michel !
+
+3 . Toute la terre a retenti du nom des bienfaits de Saint Michel et chaque jour peut raconter ses bienfaits et dire sa puissance. C’est pourquoi, il faut le prier fréquemment, car nul n’a eu recours à lui qu’il n’ait été exaucé. Ceux qui l’aiment sont forts de sa puissance contre l’Enfer et le monde. Ceux qui ont confiance en lui, le trouvent toujours à leurs côtés comme un bienfaiteur délicat et insigne.
+
+Il ne faut pas lui inspirer du dégoût en faisant le mal, car alors au lieu de consoler, il châtie. En lui faisant plaisir par une vie sainte, il nous assistera dans tous nos besoins spirituels et temporels.
+
+### Prière
+
+Ô glorieux chef du royaume des Cieux, je me prosterne devant vous. Je me réjouis de vous savoir si grand par la volonté de Dieu. Que tous les peuples de la terre vous reconnaissent pour leur protecteur et vous honorent comme les Anges et les Saints dans les Cieux.
+
+Puisse-je recevoir chaque jour vos bienfaits et obtenir la grâce d’observer toujours la loi de Dieu avec fidélité.
+
+### Salutation
+
+Je vous salue, Saint Michel, digne d’être, après la Vierge Marie, aimé et honoré plus que toutes les créatures du Ciel et de la terre.
+
+### Pratique
+
+Tu prépareras ta confession le jour de saint Michel.
 
 (Hymne)
 
