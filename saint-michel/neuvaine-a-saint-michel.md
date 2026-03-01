@@ -7,6 +7,8 @@
 - [Cinquième jour - Grandeur de Saint Michel dans l'octroi des Anges gardiens](#cinquième-jour---grandeur-de-saint-michel-dans-loctroi-des-anges-gardiens)
 - [Sixième Jour - Grandeur de Saint Michel dans son pouvoir souverain sur les démons](#sixième-jour---grandeur-de-saint-michel-dans-son-pouvoir-souverain-sur-les-démons)
 - [Septième Jour - Grandeur de Saint Michel dans le Paradis](#septième-jour---grandeur-de-saint-michel-dans-le-paradis)
+- [Huitième Jour - Grandeur de Saint Michel dans la béatitude](#huitième-jour---grandeur-de-saint-michel-dans-la-béatitude)
+- [Neuvième Jour - Grandeur de Saint Michel dans sa protection](#neuvième-jour---grandeur-de-saint-michel-dans-sa-protection)
 
 ## Premier Jour - Grandeur de Saint Michel dans l’autorité
 
@@ -217,6 +219,63 @@ Je vous salue, Saint Michel, digne d’être, après la Vierge Marie, aimé et h
 ### Pratique
 
 Tu prépareras ta confession le jour de saint Michel.
+
+(Hymne)
+
+## Huitième Jour - Grandeur de Saint Michel dans la béatitude
+
+1 . Saint Michel est l’Ange que l’Apocalypse nous montre portant sur la tête une couronne de trois couleurs différentes, symbole de sa gloire et de la prééminence sur les Bienheureux.
+
+Comme l’enseigne Saint Thomas, l’auréole est une récompense particulière, signe de triomphe spécial. Elle est donnée dans le Ciel aux Vierges, aux Martyrs et aux Docteurs.
+
+Les Vierges ont en effet remporté le combat sur la chair, les Martyrs ont triomphé du monde ; les Docteurs ont triomphé des hérésies. Mais l’auréole des Docteurs est plus lumineuse, parce qu’ils mènent le combat avec leur intelligence pour la Vérité éternelle.
+
+Combien brillante doit être l’auréole de Saint Michel qui éclabousse les Docteurs de sa lumière et qui instruit non seulement les hommes, mais les Anges eux-mêmes.
+
+2 . C’est bien pour avoir instruit les Anges eux-mêmes que Saint Michel jouit au Ciel d’un tel degré de gloire.
+Il est chef des Anges et des Docteurs. Au jour du jugement, les Docteurs eux-mêmes comparaîtront devant lui.
+
+Ils auront autour d’eux tous ceux qu’ils ont instruits de la doctrine sainte et l’ont mise en pratique. Mais combien d’Anges et de Docteurs seront autour de Saint Michel, comme des joyaux sur sa couronne de gloire !
+
+Saint Pierre aura devant lui tous les premiers chrétiens, convertis par sa parole ; Saint Jean, les fidèles de l’Asie ; Saint André, les fidèles d’Achaïe ; les autres Apôtres et les Docteurs seront entourés d’une foule innombrable d’âmes sauvées par eux ; mais Saint Michel aura tous les Apôtres et tous les Docteurs et tous les élus autour de lui.
+
+3 . Considérons combien tous les élus rendent plus glorieuse encore la couronne de l’Archange, en l’acclamant comme leur père et défenseur contre Lucifer ; leur Docteur, puisqu’il leur a prêché la Vérité ; leur Sauveur, car Il les a arrachés à l’Enfer. Tous les peuples, conduits par lui à la Jérusalem céleste, augmentent aussi la splendeur de sa couronne de gloire et de triomphe ; à eux, il a prodigué bienfaits et protection pour gagner le Ciel. Oh gloire incomparable de Saint Michel ! Imite, ô chrétien, la protection de Ferdinand, roi du Portugal, qui le priait chaque jour et l’honorait par ses jeûnes et ses mortifications, pour se préparer à ses fêtes. Imite saint François d’Assise qui le priait assidûment et tu obtiendras tout de lui.
+
+### Prière
+
+Saint Michel, par cette gloire dont vous resplendissez parmi les Anges et les Saints, obtenez-moi de la Sainte-Trinité, les vertus et les grâces dont j’ai besoin pour arriver au bonheur éternel. Faites que, moi aussi, dans le Ciel, j’accroisse la gloire de votre couronne, étant sauvé par votre protection.
+
+### Salutation
+
+Je vous salut, Saint Michel, si élevé en présence de Dieu et revêtu de vêtement de la gloire.
+
+### Pratique
+
+Tu te priveras d'un aliment ou d'une boisson agréable en l'honneur de Saint Michel.
+
+(Hymne)
+
+## Neuvième Jour - Grandeur de Saint Michel dans sa protection
+
+1 . La gloire dont Saint Michel jouit dans le Ciel lui vient principalement de la protection qu’il exerce sur les Anges, et de celle qu’il ne cesse d’étendre sur les hommes, de par l’investiture de Dieu même. Cette protection ne s’étend pas à une seule famille, ni même à une seule nation, ni à une seule ville, ni à un seul royaume, mais à la famille humaine dans son universalité : protection à lui confiée à cause de ses mérites. Comme le Pharaon éleva Joseph sur toute l’Egypte, et l’établit maître sur ses biens, ainsi Dieu, en élevant Saint Michel, l’a placé maître de la cour céleste après lui ; il lui a confié les trésors inépuisables de sa grâce, à répandre sur les hommes. Selon l’ordre du Pharaon, personne ne pouvait entrer en Egypte ni en sortir sans l’autorisation de Joseph ; nul ne peut entrer au Ciel sans Saint Michel et aucune grâce n’en descend sans passer par lui.
+
+2 . C’est la volonté expresse de Dieu que Saint Michel soit glorifié sur la terre et que les hommes dans leurs nécessités aient recours à lui. Quand la faim commença à se faire sentir en Egypte, le peuple demanda du froment au Pharaon, mais celui-ci lui dit de s’adresser à Joseph : « Ite ad Joseph », « Allez à Joseph. »
+
+Aux peuples accablés par le malheur, Dieu dit : « Allez à Saint Michel, car il a les clés de mes trésors et il est mon intendant et mon fondé de pouvoir. » À chacun de nous, Dieu dit : « Le démon vous tente, vous voulez remporter sur lui la victoire, allez à Saint Michel. » Il est l’aide infaillible des chrétiens dans les guerres, la peste, les calamités, la famine, les tentations, les épreuves. L’histoire est remplie des merveilles opérées par l’Archange. Les maux auxquels il a mis un terme ne se comptent plus et chaque peuple peut raconter ses bienfaits après l’avoir invoqué.
+
+3 . Mais le moyen le plus sûr pour obtenir sa protection est d’avoir un cœur pur et de garder de haute lutte la pureté en son âme. Étant lui-même un esprit pur au suprême degré, il met ses délices à habiter parmi les cœurs purs. Un cœur dépravé, une volonté attachée au mal, n’ont jamais attiré le regard de Saint Michel.
+
+### Prière
+
+Saint Michel, je me réfugie sous le bouclier de votre protection ; pécheur, j’implore votre protection pour avoir la force de m’éloigner du péché. Par votre séraphique charité, obtenez-moi de Jésus-Christ, de garder sa grâce dans mon âme, et mon corps, loin de toute souillure.
+
+### Salutation
+
+Je vous salue, Saint Michel, au nom glorieux et célèbre dans l’univers entier ; gardez-moi du péché.
+
+### Pratique
+
+Tu éviteras le péché véniel parce qu'il contre l'amour de Dieu et l'offense
 
 (Hymne)
 
