@@ -16,6 +16,7 @@
 - [Apparition de Saint Michel à l'empereur Eric, le boiteux](saint-michel/apparition-de-saint-michel-a-l-empereur-eric-le-boiteux)
 - [La vision du Pape Léon XIII](saint-michel/vision-pape-leon-13)
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](saint-michel/poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
+- [Chapelet angélique](saint-michel/chapelet-angelique)
 
 ## Saint Charbel [>](saint-charbel)
 
