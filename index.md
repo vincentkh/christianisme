@@ -17,6 +17,7 @@
 - [La vision du Pape Léon XIII](saint-michel/vision-pape-leon-13)
 - [Poésie de Sainte Thérèse de l'Enfant-Jésus en l'honneur de Saint Michel](saint-michel/poesie-de-st-therese-de-l-enfant-jesus-en-l-honneur-de-st-michel)
 - [Chapelet angélique](saint-michel/chapelet-angelique)
+- [Les neuf grâces](saint-michel/les-neuf-graces)
 
 ## Saint Charbel [>](saint-charbel)
 
