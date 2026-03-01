@@ -5,6 +5,7 @@
 - [Troisième jour - Grandeur de Saint Michel comme Vicaire du Très-Haut](#troisième-jour---grandeur-de-saint-michel-comme-vicaire-du-très---haut)
 - [Quatrième jour - Grandeur de Saint Michel dans sa primauté sur les Anges](#quatrième-jour---grandeur-de-saint-michel-dans-sa-primauté-sur-les-anges)
 - [Cinquième jour - Grandeur de Saint Michel dans l'octroi des Anges gardiens](#cinquième-jour---grandeur-de-saint-michel-dans-loctroi-des-anges-gardiens)
+- [Sixième Jour - Grandeur de Saint Michel dans son pouvoir souverain sur les démons](#sixième-jour---grandeur-de-saint-michel-dans-son-pouvoir-souverain-sur-les-démons)
 
 ## Premier Jour - Grandeur de Saint Michel dans l’autorité
 
@@ -152,6 +153,36 @@ Je vous salue, Saint Michel, gardien des fidèles.
 ### Pratique
 
 Tu rendras hommage à ton Ange gardien, tu le prieras et tu ne mépriseras jamais ses inspirations.
+
+(Hymne)
+
+## Sixième Jour - Grandeur de Saint Michel dans son pouvoir souverain sur les démons
+
+1 . Saint Michel est le ministre de la justice de Dieu et il exerce un grand pouvoir sur les démons.
+
+L’Ecriture l’appelle : « L’extermination », parce qu’il a écrasé le démon dans le Ciel et le vaincra jusqu’à la fin du monde.
+
+Jean Gerson, chancelier de Paris, observe qu’il soutint un double combat au Ciel contre Lucifer : le premier par raisonnement, pour le persuader de s’humilier devant le Créateur, le second, dans son obstination, pour l’abattre de la force de son zèle et le précipiter dans l’abîme. C’est depuis ce jour, dit Saint Bruno, qu’il acquit un si grand pouvoir sur les démons, qu’il devint leur principal ennemi, leur exterminateur, comme le montre Saint Jean Apôtre dans l’Apocalypse.
+
+2 . Or, ce pouvoir sur les démons est grand, au-dessus de tout ce qui peut s’imaginer. L’Apocalypse rapporte que Saint Michel lia le démon avec une chaîne et le précipita dans l’Enfer. Lucifer est appelé dragon pour sa violence, serpent pour son astuce, diable pour son arrogance, grand par sa puissance infernale, et Satan, c’est-à-dire l’adversaire.
+
+3 . Les démons ont le pouvoir de tromper par leurs mensonges, de confondre par la jalousie et la malveillance, et de punir par les méchancetés. Mais le pouvoir de Saint Michel est plus grand pour guider l’homme contre tous les artifices diaboliques, qu’il détruit, disperse, anéantit. Vainqueur d’eux au Ciel ; il l’est chaque jour dans l’Église et les âmes en sur terre.
+
+Aussi est-il nommé « L’Ange de la victoire, l’artisan de la victoire ».
+
+Dans ton cœur, ô chrétien, le démon ne cesse de livrer un combat par ses assauts répétés, ses tentations, ses mensonges, ses artifices. Recours à Saint Michel et tu vaincras.
+
+### Prière
+
+Ô puissant ministre de la justice divine, venez à mon aide, car le démon ne cesse de me faire une guerre sans merci. Réprimez son audace et son arrogance et secourez-moi. Je me mets sous votre puissante protection, pour triompher du démon et être sauvé.
+
+### Salutation
+
+Je vous salue, Saint Michel, vainqueur des démons.
+
+### Pratique
+
+Dans les tentations, tu invoqueras Saint Michel. « Saint Michel, défendez-moi dans les combats ».
 
 (Hymne)
 
