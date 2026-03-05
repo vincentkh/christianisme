@@ -19,6 +19,8 @@
 - [Chapelet angélique](saint-michel/chapelet-angelique)
 - [Les neuf grâces](saint-michel/les-neuf-graces)
 
+## Saint Joseph [>](saint-joseph)
+
 ## Saint Charbel [>](saint-charbel)
 
 ## Saint Padre Pio [>](saint-padre-pio)
