@@ -2,6 +2,16 @@
 
 ## Modèle et patron des amis du Sacré-Coeur
 
+- [Premier jour](#premier-jour)
+- [Deuxième jour](#deuxième-jour)
+- [Troisième jour](#troisième-jour)
+- [Quatrième jour](#quatrième-jour)
+- [Cinquième jour](#cinquième-jour)
+- [Sixième jour](#sixième-jour)
+- [Septième jour](#septième-jour)
+- [Huitième jour](#huitième-jour)
+- [Neuvième jour](#neuvième-jour)
+
 ## Premier jour
 
 > Aimé soit partout le Sacré Cœur de Jésus ! (100 jours d'indulgence. PIE IX).
@@ -29,6 +39,14 @@ Souvenez-vous, etc.
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
 
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+O saint patriarche, par la peine que vous avez ressentie en voyant naître le Verbe divin dans une étable, si pauvre, sans feu et sans langes, et en l’entendant se plaindre du froid qu’il éprouvait, je vous prie de m’obtenir une véritable douleur de mes péchés, cause des larmes de Jésus. Par la consolation que vous avez ensuite ressentie en voyant pour la première fois Jésus enfant dans la crèche, si beau et si gracieux, en sorte que votre cœur, à partir de ce moment, commença à brûler d’un amour plus ardent envers un enfant aussi aimant et aussi aimable : obtenez-moi la grâce de l’aimer, moi aussi, d’un grand amour sur cette terre, pour un jour le posséder en paradis.
+
+Et vous, ô Marie, mère de Dieu et ma mère recommandez-moi à votre Fils et obtenez-moi le pardon de tous les péchés que j’ai commis contre lui, et la grâce de ne plus l’offenser.
+
+Et vous, ô mon bien-aimé Jésus, pardonnez-moi par amour pour Marie et pour Joseph, et donnez-moi la grâce de pouvoir un jour vous contempler en paradis, vous y louer et y aimer votre divine beauté et cette bonté qui vous a fait petit enfant par amour pour moi. Je vous aime, ô mon Jésus. Je vous aime, mon Dieu, mon amour, mon tout !
+
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
 ## Troisième jour
@@ -42,6 +60,14 @@ Le précurseur du Messie, saint Jean-Baptiste, s’est appelé « l’ami de l�
 Rendez-moi, ô bienheureux Père l’ami de Jésus et de Marie, l’ami de la mortification et du silence. Accordez-moi ce que mon cœur désire tous les jours conformément à la volonté de Dieu que vous avez si parfaitement accomplie.
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
+
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+O mon saint protecteur, par cette prompte obéissance que vous avez toujours témoignée aux volontés de Dieu, obtenez-moi de votre Jésus la grâce d’obéir parfaitement à ses divins préceptes. Obtenez qu’au milieu de tant d’ennemis, mon âme, qui fait le voyage de l’éternité, ne perde jamais la compagnie de Jésus et de Marie jusqu’au dernier soupir de ma vie. Ainsi accompagné, toutes les peines de cette vie et la mort même me seront douces et chères.
+
+O Marie, mère de Dieu, par les souffrances que votre jeunesse a endurées pendant le voyage d’Égypte, obtenez-moi la force de supporter avec patience et résignation les contrariétés et tous les ennuis qui m’arrivent.
+
+Et vous, mon cher Jésus, ayez pitié de moi. O vous qui êtes mon Seigneur et mon Dieu, tout innocent que vous étiez, vous avez voulu souffrir de tant de manières depuis votre enfance, et moi, pécheur, qui ai tant de fois mérité l’enfer, comment ai-je été ainsi ennuyé, si impatient à souffrir quelque chose pour vous ? Mon doux Seigneur, pardonnez-moi. A l’avenir je veux supporter tout ce que vous m’enverrez. Aidez-moi pour cela de votre grâce, sans quoi je ne serai pas fidèle. Je vous aime, ô mon Jésus, mon trésor et mon tout, et je veux vous aimer, et pour vous être agréable je veux souffrir tout ce qu’il vous plaira que je souffre.
 
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
@@ -59,6 +85,14 @@ Jésus a appelé Lazare son ami. Lazare a reçu plusieurs fois Jésus à Béthan
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
 
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+Saint Patriarche, vous pleurez pour avoir perdu Jésus. Mais vous l’avez toujours aimé et il vous a toujours aimé. Il vous a aimé au point de vous choisir pour son gardien et le protecteur de sa vie. Ah ! laissez-moi pleurer, moi qui, pour les créatures et pour de vains caprices, ai tant de fois délaissé et perdu mon Dieu, en méprisant sa grâce divine. Ah ! mon saint bien-aimé, par les mérites de la peine que vous avez éprouvée en perdant Jésus, obtenez-moi des larmes pour pleurer sans cesse les injures que j’ai faites à mon divin Maître. Et, par l’allégresse que vous avez éprouvée en le retrouvant dans le Temple, obtenez-moi le bonheur de le retrouver, en le faisant rentrer dans mon âme, avec sa grâce, pour ne plus le perdre à l’avenir.
+
+Et vous, ô Marie, ma Mère, vous qui êtes le refuge des pécheurs, ne m’abandonnez pas, ayez pitié de moi. Si j’ai offensé votre Fils, je m’en repens à présent de tout mon cœur, et je suis prêt à perdre mille fois la vie plutôt que de perdre sa grâce divine. Priez-le de me pardonner et de m’accorder la sainte persévérance.
+
+Et vous, mon bien-aimé Jésus, si vous ne m'avez pas pardonné encore, pardonnez-moi en ce jour. Je déteste et je hais toutes les injures que je vous ai faites. Elles me déplaisent et je voudrais en mourir de douleur. Je vous aime, et parce que je vous aime, j'estime votre amour et votre grâce plus haut que tous les trônes du monde. Aidez-moi, Seigneur, afin que je vous aime toujours et que je ne vous offense plus.
+
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
 ## Cinquième jour
@@ -72,6 +106,12 @@ L’ÉVANGILE nous dit que Jésus aimait Marthe. Celle-ci a servi Jésus quelque
 Oui, vous êtes l’ami fidèle et le père nourricier de Jésus. Je vous confie mon âme, nourrissez-la des vertus que vous avez pratiquées. Faites-moi éviter le trouble et l’agitation. Enseignez-moi l’unique nécessaire et obtenez-moi les grâces que je demande au Cœur sacré de Jésus par votre puissante intercession.
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
+
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+Saint Patriarche, par les larmes que vous avez répandues en contemplant d'avance la passion de votre Jésus, obtenez-moi un souvenir continuel et une tendre compassion vis-à-vis des souffrances de mon Rédempteur. Par les Saintes flammes d'amour que ces entretiens et ces pensées allumèrent dans votre cœur, obtenez-en une étincelle pour mon âme, dont les péchés ont contribué si grandement à faire souffrir Jésus Christ.
+
+Et vous, ô Marie, au nom de ce que vous avez souffert à Jérusalem à la vue des tourments et de la mort de votre cher Fils, obtenez-moi une grande douleur de mes péchés. Et vous, mon doux Jésus, qui par amour pour moi, avez tant souffert et êtes mort, faites que je n'oublie jamais un si grand amour. O mon Sauveur votre mort est mon espérance. Je crois que vous êtes mort pour moi. J'espère mon salut de vos mérites. Je vous aime de tout mon cœur, je vous aime plus que toute autre chose, je, vous aime plus que moi-même. Je vous aime, et, par amour pour vous, je suis prêt à souffrir toute espèce de tourments. Je regrette comme le plus grand des malheurs de vous avoir déplu, à vous qui êtes le souverain bien. Je ne désire pas autre chose que de vous aimer et de vous être, agréable. Aidez-moi, ô mon Seigneur, ne permettez pas qu'il m'arrive jamais de me séparer de vous.
 
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
@@ -87,6 +127,14 @@ Le saint Évangile nous dit encore que Jésus aimait Marie-Madeleine. Cette illu
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
 
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+O saint Patriarche, je me réjouis de votre vocation et de la grandeur à laquelle elle vous a élevé, en vous rendant digne de commander comme père et d'attendre l'obéissance de Celui à qui les cieux et la terre obéissent. Saint bien-aimé, puisque vous avez été servi par un Dieu, je veux, moi aussi, devenir votre serviteur. Je veux dorénavant vous servir, vous honorer et vous aimer comme mon seigneur et maître. Acceptez-moi sous votre patronage et ordonnez-moi ce que vous voudrez. Je sais que tout ce que vous direz sera pour la gloire de celui qui est mon Rédempteur et le vôtre. O mon saint Joseph, priez pour moi. Il ne vous refusera certainement rien, lui qui sur la terre a obéi à tous vos commandements. Dites-lui de me pardonner mes offenses. Dites-lui de me détacher des créatures et de moi-même, de m'enflammer de son amour ; après cela qu'il fasse de moi ce qu'il lui plaira.
+
+Et vous, ô très sainte Marie, par l'amour que vous donna Joseph, accueillez-moi sous votre manteau, et priez votre saint époux de m'accepter pour son serviteur.
+
+Et vous, ô mon doux Jésus, qui, pour payer mes désobéissances, avez voulu vous humilier et obéir à un homme, par les mérites de cette obéissance que vous avez témoignée sur la terre à Joseph, donnez-moi la grâce d'obéir dorénavant à toutes vos divines volontés. Par l'amour que vous avez porté à Joseph, et que Joseph vous porta, accordez-moi un grand amour vis-à-vis de votre infinie bonté, vous qui méritez d'être aimé sans partage. Oubliez mes insultes et ayez pitié de moi. Je vous aime, ô Jésus, mon amour ; je vous aime, ô mon Dieu, et je veux toujours vous aimer.
+
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
 ## Septième jour
@@ -101,6 +149,18 @@ Saint Joseph, Modèle et Patron des amis du Sacré Cœur, rendez-moi, en quelque
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
 
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+Mon saint Protecteur, vous aviez droit à la mort sainte que vous avez faite, puisque votre vie avait été si pure et si sainte. Pour moi, je mériterais une mort malheureuse, en punition de ma mauvaise vie. Mais, si vous me défendez, je ne me perdrai pas. Vous n'avez pas été seulement le grand ami de mon juge, mais vous avez été son gardien et son père nourricier.
+
+Si vous me recommandez à Jésus, il ne saurait me condamner. O mon saint Patriarche, après Marie, je vous choisis pour mon principal avocat et protecteur. Je vous promets pour le reste de ma vie de vous honorer chaque jour par quelque hommage spécial et de me mettre sous votre patronage.
+
+Je ne le mérite pas, mais vous, par l'amour que vous avez eu pour Jésus et pour Marie, acceptez-moi, comme votre serviteur à jamais. Par la douce compagnie que Jésus et Marie vous ont tenu pendant votre vie, protégez-moi toujours pendant ma vie, afin que je ne me sépare jamais de Dieu et que je ne perde jamais sa grâce. Par l'assistance que Jésus et Marie vous donnèrent au moment de votre mort, protégez-moi spécialement à l'heure de la mienne, afin qu'en ce moment, accompagné de vous, de Jésus, de Marie, je puisse aller un jour vous remercier dans le paradis, louer et aimer éternellement mon Dieu en votre compagnie.
+
+Vierge très sainte, mon espérance, vous savez déjà qu'appuyé d'abord sur les mérites de Jésus-Christ et ensuite sur votre intercession, j'espère faire une bonne mort et vous servir. O ma Mère, ne m'abandonnez pas, mais assistez-moi au grand et solennel moment de ma mort. Obtenez-moi la grâce d'expirer en vous appelant et en vous aimant vous et Dieu.
+
+Et vous, mon cher Rédempteur, qui devez être un jour mon juge, ah ! pardonnez-moi toutes les offenses que je vous ai faites, je m'en repens de tout mon cœur. Mais pardonnez-moi avant qu'arrive l'heure de ma mort, où vous devez me jugez. Malheureux, j'ai perdu tant d'années à ne pas vous aimer ! Ah ! donnez-moi la grâce de vous aimer et de vous aimer beaucoup pendant le plus ou moins longtemps qu'il me reste à vivre ! Et lorsque sera venue l'heure de mon passage de cette vie à l'éternité, faites-moi mourir embrasé d'amour pour vous. Je vous aime, ô mon Rédempteur, mon Dieu, mon amour, mon tout. Je ne cherche pas d'autre grâce que celle de vous aimer, je désire et je vous demande le paradis pour vous aimer de toutes mes forces et pendant toute l'éternité. Ainsi soit-il. J'espère qu'il en sera ainsi. Jésus, Marie, Joseph ! je vous donne mon cœur et mon âme ! Jésus, Marie, Joseph, faites moi agoniser et mourir en votre compagnie !
+
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
 ## Huitième jour
@@ -114,6 +174,14 @@ L’EXODE nous dit : « Le Seigneur parlait à Moïse face à face comme un homm
 Ô Modèle et Patron des amis du Sacré Cœur, apprenez-moi à converser avec Jésus. Obtenez-moi l’esprit d’oraison, l’esprit vraiment intérieur et la plus grande fidélité à la loi du Seigneur. Apprenez-moi à aimer Dieu et le prochain ; c’est là toute la loi.
 
 > Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
+
+### Prière à Saint Joseph composée par S. Alphonse de Liguori, pour être récitée les sept jours consécutifs qui précèdent la fête du 19 mars
+
+O mon saint Patriarche, à présent que vous jouissez du ciel sur un trône élevé, voisin de votre bien-aimé Jésus, qui vous fut soumis sur la terre, ayez pitié de moi, qui vis au milieu de tant d'ennemis, de démons et de passions mauvaises, qui me livrent de continuels combats pour me faire perdre la grâce de mon Dieu. Ah ! par la grâce qui vous fut accordée de pouvoir jouir continuellement sur la terre de la compagnie de Jésus et de Marie, obtenez-moi la grâce de vivre toujours uni à Dieu pendant les jours qui me restent à vivre, en résistant aux assauts de l'enfer, et de mourir ensuite en aimant Jésus et Marie, afin que je puisse aller un jour avec vous jouir de leur société dans le royaume des bienheureux.
+
+Vierge très sainte, ô Marie, ma mère, dites-moi quand, délivré de la crainte de pécher à l'avenir, je m'attacherai à vos pieds pour ne plus en partir ? Je compte sur votre aide pour arriver à cette félicité.
+
+Et vous, mon bien-aimé Jésus, mon cher Rédempteur, quand pourrai-je jouir de vous au paradis et vous aimer face à face, sûr de ne plus jamais vous perdre ? Tant que je vis, je suis toujours dans ce péril. Ah ! mon Seigneur et mon unique bien ! par les mérites de Joseph que vous aimez et honorez tant dans le ciel, par les mérites de votre Mère bien-aimée, mais surtout par les mérites de votre vie et de votre mort, qui m'ont valu tous les biens et toutes les espérances, ne permettez pas que je me sépare jamais de votre amour sur cette terre, afin que j'aille un jour dans cette patrie de l'amour vous posséder et vous aimer de toutes mes forces, pour ne plus quitter votre présence et votre amour pendant toute l'éternité. Amen. Ainsi j'espère. Ainsi soit-il.
 
 [Se rendre à la section "Demandes" afin de compléter la journée](neuvaine-a-saint-joseph#demandes)
 
