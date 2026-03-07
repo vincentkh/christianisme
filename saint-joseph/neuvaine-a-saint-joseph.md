@@ -4,19 +4,15 @@
 
 ## Premier jour
 
-```
-Aimé soit partout le Sacré Cœur de Jésus ! (100 jours d'indulgence. PIE IX).
-Notre-Dame du Sacré Cœur, priez pour nous ! (300 jours d'indulgence. chaque fois. PIE X).
-Saint Joseph, Modèle et Patron des amis du Sacré Cœur, priez pour nous ! (100 jours d'ind. une fois par jour, LEON XIII).
-```
+> Aimé soit partout le Sacré Cœur de Jésus ! (100 jours d'indulgence. PIE IX).
+> Notre-Dame du Sacré Cœur, priez pour nous ! (300 jours d'indulgence. chaque fois. PIE X).
+> Saint Joseph, Modèle et Patron des amis du Sacré Cœur, priez pour nous ! (100 jours d'ind. une fois par jour, LEON XIII).
 
 Glorieux et aimable saint Joseph, je viens vous invoquer pendant neuf jours sous un titre qui vous est cher. Vous avez beaucoup aimé le Cœur de Jésus et ce divin Cœur vous a infiniment aimé. Vous êtes vraiment le MODELE ET LE PATRON DES AMIS DU SACRE CŒUR. Autre est la clarté du soleil, autre la clarté de la lune, et une étoile diffère d’une autre en éclat. Ainsi les saints diffèrent entre eux. Tous furent les amis du Cœur de Jésus, mais vous l’avez été plus que tous, après la Bienheureuse Vierge Marie. Aussi tous s’inclinent devant vous. L’ancien Joseph vit le soleil, la lune et onze étoiles l’adorer. Or Jésus, soleil de justice, Marie, douce comme la lune, les apôtres et les saints, brillants comme des étoiles, se sont inclinés devant vous.
 
 Je me joins à eux, ô Joseph. Je vous salue. Ô vous qui êtes le grand Modèle et le Patron des amis du Sacré Cœur et je vous prie de m’accorder ce que je vous demande pendant cette neuvaine.
 
-```
-Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
-```
+> Souvenez-vous, ô glorieux saint Joseph, Modèle et Patron, des amis du Sacré Cœur, qu'on n'a jamais entendu dire qu’aucun de ceux qui ont eu recours à votre protection, sollicité votre secours et imploré vos suffrages, ait été abandonné. Animé d’une pareille confiance, ô chaste époux de Marie, ô mon tendre Père, je viens à vous et gémissant sous le poids de mes péchés, je me prosterne à vos pieds. Ô juste Joseph, père nourricier du Verbe fait homme pour moi, ne méprisez pas ma prière, mais écoutez-la favorablement et daignez l'exaucer. Ainsi soit-il.
 
 ## Deuxième jour
 
