@@ -21,13 +21,13 @@
 
 ## Saint Joseph [>](saint-joseph)
 
+- [L’amour consume le cœur de Saint Joseph](saint-joseph/l-amour-consume-le-coeur-de-saint-joseph)
+
 ## Saint Charbel [>](saint-charbel)
 
 ## Saint Padre Pio [>](saint-padre-pio)
 
 ## Sainte Jeanne d'Arc [>](sainte-jeanne-d-arc)
-
-- [L’amour consume le cœur de Saint Joseph](saint-joseph/l-amour-consume-le-coeur-de-saint-joseph)
 
 ## Prières
 
