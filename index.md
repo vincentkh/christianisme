@@ -27,16 +27,15 @@
 
 ## Sainte Jeanne d'Arc [>](sainte-jeanne-d-arc)
 
-- [Prière à Saint Joseph, modèle des travailleurs](saint-joseph/priere-a-saint-joseph-modele-des-travailleurs)
-- [Prière à Saint Joseph pour une bonne mort](saint-joseph/priere-a-saint-joseph-pour-une-bonne-mort)
-- [Neuvaine à Saint Joseph](saint-joseph/neuvaine-a-saint-joseph)
-- [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
 - [L’amour consume le cœur de Saint Joseph](saint-joseph/l-amour-consume-le-coeur-de-saint-joseph)
 
 ## Prières
 
 - [Communion Spirituelle](prieres/communion-spirituelle)
 - [La prière à faire avant des décisions importantes](prieres/la-priere-a-faire-avant-des-decisions-importantes)
+- [Prière à Saint Joseph, modèle des travailleurs](saint-joseph/priere-a-saint-joseph-modele-des-travailleurs)
+- [Prière à Saint Joseph pour une bonne mort](saint-joseph/priere-a-saint-joseph-pour-une-bonne-mort)
+- [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
 - [Prière à Saint Raphaël](prieres/priere-a-saint-raphael)
 - [Prière de Saint François de Sales](prieres/priere-de-saint-francois-de-sales)
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
