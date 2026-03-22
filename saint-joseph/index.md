@@ -2,15 +2,16 @@
 
 ## Prières
 
-- Je vous salue Joseph [>](je-vous-salue-joseph)
-- Prière à Saint Joseph, modèle des travailleurs [>](priere-a-saint-joseph-modele-des-travailleurs)
-- Prière à Saint Joseph pour une bonne mort [>](priere-a-saint-joseph-pour-une-bonne-mort)
-- Neuvaine à Saint Joseph [>](neuvaine-a-saint-joseph)
-- Acte de consécration au glorieux Saint Joseph [>](acte-de-consecration-au-glorieux-saint-joseph)
+- [Je vous salue Joseph](je-vous-salue-joseph)
+- [Prière à Saint Joseph, modèle des travailleurs](priere-a-saint-joseph-modele-des-travailleurs)
+- [Prière à Saint Joseph pour une bonne mort](priere-a-saint-joseph-pour-une-bonne-mort)
+- [Prière à Saint Joseph efficace pour obtenir la pureté](priere-a-saint-joseph-efficace-pour-obtenir-la-purete)
+- [Neuvaine à Saint Joseph](neuvaine-a-saint-joseph)
+- [Acte de consécration au glorieux Saint Joseph](acte-de-consecration-au-glorieux-saint-joseph)
 
 ## Écrits
 
-- L’amour consume le cœur de Saint Joseph [>](l-amour-consume-le-coeur-de-saint-joseph)
+- [L’amour consume le cœur de Saint Joseph](l-amour-consume-le-coeur-de-saint-joseph)
 
 ## Récits
 
@@ -72,6 +73,28 @@ Que Saint Joseph soit remercié.
 
 *(extrait des fioretti de Saint Joseph d'Espaly près du Puy-en-Velay)*
 
-### Saint désir.
+### Le carnet de Saint Joseph
+
+Le Père Ladislas VELICS S.J. était un fidèle dévot de Saint Joseph. A tous ceux qui avaient besoin de secours, il confiait un secret qu'il pratiquait depuis des années. " Prenez un carnet, mettez-y le titre : CARNET DE SAINT JOSEPH. Inscrivez vos soucis, vos désirs, vos projets, vos problèmes... Puis, demandez souvent à Saint Joseph de vous exaucer ! " Le Père continue : " Je sais par expérience que Saint Joseph trouve une heureuse solution à toutes les difficultés, les unes après les autres ".
+
+*(extrait des fioretti de Saint Joseph d'Espaly près du Puy-en-Velay)*
+
+### Le compagnon de route
+
+La vénérable Jeanne Rodriguez s'étant mise en voyage avec une religieuse, se vit tout à coup assaillie par une tempête effroyable, qui la rendit comme incapable de continuer sa route. Un vénérable personnage leur apparut alors, qui se mit à les guider, en les entretenant de discours célestes et consolants. Par un prodige qui éclaira leurs yeux, la pluie, qui tombait par torrent, n'atteignit même pas leurs habits. Saint Joseph, car c'était lui, les accompagna jusqu'au terme de la route, et là, il disparut subitement.
+
+*(Légendes franciscaines, 21 août.)*
+
+### Hospitalité miraculeuse
+
+Jérôme de Pistole se trouvait une nuit en voyage dans les environs de Venise, quand il eut le malheur de s'égarer. Épuisé de fatigue, il implora le secours de Jésus, Marie et Joseph. Tout à coup une lumière brillante l'attire vers une petite maison habitée par un vieillard, une jeune femme et un enfant. Il y fut accueilli parfaitement. La nuit se passe, et le religieux se réveille plein de force, mais la maison hospitalière avait disparu, et il se trouve dans sa route. Jésus, Marie et Joseph avaient été ses hôtes.
+
+*(Chronique de l'ordre des Capucins*)
+
+### La direction de saint Joseph
+
+Un jeune berger, simple et sans lettres, passait sa vie à faire paître ses troupeaux, et il trouvait dans cette humble occupation mille moyens d'avancer dans la perfection. Bien qu'il ne fit rien d'extraordinaire et qu'il n'eût pas l'occasion de converser avec des personnes distinguées par leur savoir et leur vertu, il était rempli de toutes sortes de grâces et de dons intérieurs si relevés, qu'il ravissait d'admiration ceux qui le connaissaient. Ce jeune berger avait une dévotion toute particulière à saint Joseph, qu'il appelait son protecteur, son maître et son directeur ; il disait que saint Joseph était le maître des âmes qui aiment la vie humble et cachée comme la sienne avait été.
+
+### Saint désir
 
 Quelques jours avant sa mort, le R. Père Xavier de Ravignan disait à ceux qui l'entouraient : « Si j'avais un vœu à faire, ce serait de mourir le jour de Saint Joseph ou de la fête de l'Annonciation. Mais, ajouta-t-il, le plus tôt sera le meilleur. » Une âme dans les lumières de laquelle il avait confiance lui ayant fait savoir que sa mort serait plus prochaine qu'il ne pensait, et qu'il irait célébrer au ciel cette fête de saint Joseph, il fut touché jusqu'aux larmes, il se confondit dans son abjection et dans son abaissement, ne se trouvant pas digne de tant de grâces. (R.P. DE PONLEVOY, Vie du R.P. de Ravignan.)
