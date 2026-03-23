@@ -22,6 +22,11 @@
 ## Saint Joseph [>](saint-joseph)
 
 - [L’amour consume le cœur de Saint Joseph](saint-joseph/l-amour-consume-le-coeur-de-saint-joseph)
+- [Je vous salue Joseph](saint-joseph/je-vous-salue-joseph)
+- [Prière à Saint Joseph, modèle des travailleurs](saint-joseph/priere-a-saint-joseph-modele-des-travailleurs)
+- [Prière à Saint Joseph pour une bonne mort](saint-joseph/priere-a-saint-joseph-pour-une-bonne-mort)
+- [Prière à Saint Joseph efficace pour obtenir la pureté](saint-joseph/priere-a-saint-joseph-efficace-pour-obtenir-la-purete)
+- [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
 
 ## Saint Charbel [>](saint-charbel)
 
