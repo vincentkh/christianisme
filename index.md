@@ -48,6 +48,8 @@
 
 ## Saint Augustin [>](saint-augustin)
 
+## Saint François d'Assise [>](saint-francois-d-assise)
+
 ## Prières
 
 - [Âme du Christ](prieres/ame-du-christ)
