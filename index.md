@@ -37,6 +37,11 @@
 
 ## Saint Antoine de Padoue [>](saint-antoine-de-padoue)
 
+## Sainte Thérèse d'Avila [>](sainte-therese-d-avila)
+
+- - [Prière d'abandon de Sainte Thérèse d'Avila](sainte-therese-d-avila/priere-d-abandon-de-sainte-therese-d-avila)
+- [Poésie de Sainte Thérèse d’Avila](sainte-therese-d-avila/poesie-de-saint-therese-d-avila)
+
 ## Prières
 
 - [Communion Spirituelle](prieres/communion-spirituelle)
@@ -49,11 +54,10 @@
 - [Prière à Sainte Thérèse de l'Enfant Jésus](prieres/priere-a-sainte-therese-de-l-enfant-jesus)
 - [Prière de Sainte Faustine](prieres/priere-de-sainte-faustine)
 - [Acte de Contrition](prieres/acte-de-contrition)
-- [Poésie de Sainte Thérèse d’Avila](prieres/poesie-de-saint-therese-d-avila)
 - [Prière aux sept Princes de la milice céleste](prieres/priere-aux-sept-princes-de-la-milice-celeste)
 - [Prière aux trois Archanges](prieres/priere-aux-trois-archanges)
 - [Prière dictée par Jésus à Sœur Josefa](prieres/priere-dictee-par-jesus-a-soeur-josefa)
-- [Prière d'abandon de Sainte Thérèse d'Avila](prieres/priere-d-abandon-de-sainte-therese-d-avila)
+- [Prière pour la France de Marcel Van](prieres/priere-pour-la-france-de-marcel-van)
 
 # Neuvaines
 
