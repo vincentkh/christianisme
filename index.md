@@ -39,8 +39,12 @@
 
 ## Sainte Thérèse d'Avila [>](sainte-therese-d-avila)
 
-- - [Prière d'abandon de Sainte Thérèse d'Avila](sainte-therese-d-avila/priere-d-abandon-de-sainte-therese-d-avila)
+- [Prière d'abandon de Sainte Thérèse d'Avila](sainte-therese-d-avila/priere-d-abandon-de-sainte-therese-d-avila)
 - [Poésie de Sainte Thérèse d’Avila](sainte-therese-d-avila/poesie-de-saint-therese-d-avila)
+
+## Sainte Thérèse de Lisieux [>](sainte-therese-de-lisieux)
+
+- [Prière à Sainte Thérèse de l'Enfant Jésus](sainte-therese-de-lisieux/priere-a-sainte-therese-de-l-enfant-jesus)
 
 ## Prières
 
@@ -51,7 +55,6 @@
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
 - [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
 - [Prière pour la France à Saint Michel](prieres/priere-pour-la-france-a-saint-michel)
-- [Prière à Sainte Thérèse de l'Enfant Jésus](prieres/priere-a-sainte-therese-de-l-enfant-jesus)
 - [Prière de Sainte Faustine](prieres/priere-de-sainte-faustine)
 - [Acte de Contrition](prieres/acte-de-contrition)
 - [Prière aux sept Princes de la milice céleste](prieres/priere-aux-sept-princes-de-la-milice-celeste)
