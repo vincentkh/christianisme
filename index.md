@@ -26,6 +26,7 @@
 - [Prière à Saint Joseph, modèle des travailleurs](saint-joseph/priere-a-saint-joseph-modele-des-travailleurs)
 - [Prière à Saint Joseph pour une bonne mort](saint-joseph/priere-a-saint-joseph-pour-une-bonne-mort)
 - [Prière à Saint Joseph efficace pour obtenir la pureté](saint-joseph/priere-a-saint-joseph-efficace-pour-obtenir-la-purete)
+- [Prière à Saint Joseph contre le stress et l'anxiété](saint-joseph/priere-a-saint-joseph-contre-le-stress-et-l-anxiete)
 - [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
 
 ## Saint Charbel [>](saint-charbel)
@@ -34,13 +35,12 @@
 
 ## Sainte Jeanne d'Arc [>](sainte-jeanne-d-arc)
 
+## Saint Antoine de Padoue [>](saint-antoine-de-padoue)
+
 ## Prières
 
 - [Communion Spirituelle](prieres/communion-spirituelle)
 - [La prière à faire avant des décisions importantes](prieres/la-priere-a-faire-avant-des-decisions-importantes)
-- [Prière à Saint Joseph, modèle des travailleurs](saint-joseph/priere-a-saint-joseph-modele-des-travailleurs)
-- [Prière à Saint Joseph pour une bonne mort](saint-joseph/priere-a-saint-joseph-pour-une-bonne-mort)
-- [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
 - [Prière à Saint Raphaël](prieres/priere-a-saint-raphael)
 - [Prière de Saint François de Sales](prieres/priere-de-saint-francois-de-sales)
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
@@ -52,6 +52,8 @@
 - [Poésie de Sainte Thérèse d’Avila](prieres/poesie-de-saint-therese-d-avila)
 - [Prière aux sept Princes de la milice céleste](prieres/priere-aux-sept-princes-de-la-milice-celeste)
 - [Prière aux trois Archanges](prieres/priere-aux-trois-archanges)
+- [Prière dictée par Jésus à Sœur Josefa](prieres/priere-dictee-par-jesus-a-soeur-josefa)
+- [Prière d'abandon de Sainte Thérèse d'Avila](prieres/priere-d-abandon-de-sainte-therese-d-avila)
 
 # Neuvaines
 
