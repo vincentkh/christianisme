@@ -48,6 +48,7 @@
 
 ## Prières
 
+- [Âme du Christ](prieres/ame-du-christ)
 - [Communion Spirituelle](prieres/communion-spirituelle)
 - [La prière à faire avant des décisions importantes](prieres/la-priere-a-faire-avant-des-decisions-importantes)
 - [Prière à Saint Raphaël](prieres/priere-a-saint-raphael)
