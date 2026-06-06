@@ -46,6 +46,11 @@
 
 - [Prière à Sainte Thérèse de l'Enfant Jésus](sainte-therese-de-lisieux/priere-a-sainte-therese-de-l-enfant-jesus)
 
+## Sainte Rita [>](sainte-rita)
+
+- [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
+- [Supplication à sainte Rita](sainte-rita/supplication-a-sainte-rita)
+
 ## Saint Augustin [>](saint-augustin)
 
 ## Saint François d'Assise [>](saint-francois-d-assise)
@@ -58,7 +63,6 @@
 - [Prière à Saint Raphaël](prieres/priere-a-saint-raphael)
 - [Prière de Saint François de Sales](prieres/priere-de-saint-francois-de-sales)
 - [Prière à saint Benoît pour se défaire du négatif](prieres/priere-a-saint-benoit-pour-se-defaire-du-negatif)
-- [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
 - [Prière pour la France à Saint Michel](prieres/priere-pour-la-france-a-saint-michel)
 - [Prière de Sainte Faustine](prieres/priere-de-sainte-faustine)
 - [Acte de Contrition](prieres/acte-de-contrition)
