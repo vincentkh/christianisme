@@ -49,6 +49,7 @@
 ## Sainte Rita [>](sainte-rita)
 
 - [Prière à Sainte Rita](prieres/priere-a-sainte-rita)
+- [Prière du chauffeur](prieres/priere-du-chauffeur)
 - [Supplication à sainte Rita](sainte-rita/supplication-a-sainte-rita)
 
 ## Saint Augustin [>](saint-augustin)
