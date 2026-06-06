@@ -31,6 +31,9 @@
 
 ## Saint Charbel [>](saint-charbel)
 
+- [Prière à saint Charbel](saint-charbel/priere-a-saint-charbel)
+- [Puissante prière à saint Charbel pour obtenir une grâce](saint-charbel/puissante-priere-a-saint-charbel-pour-obtenir-une-grace)
+
 ## Saint Padre Pio [>](saint-padre-pio)
 
 ## Sainte Jeanne d'Arc [>](sainte-jeanne-d-arc)
