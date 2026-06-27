@@ -37,6 +37,6 @@ self.addEventListener('fetch', event => {
         }
         return response;
       });
-    }).catch(() => caches.match('/'))
+    }).catch(() => caches.match(self.registration.scope))
   );
 });

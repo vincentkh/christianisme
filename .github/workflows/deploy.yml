@@ -35,11 +35,14 @@ jobs:
         run: sudo chown -R "$USER" _site
 
       - name: Inject cache version and precache list into sw.js
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
         run: |
           export CACHE_VERSION=$(date -u +%Y%m%d%H%M%S)
           python3 << 'PYEOF'
           import os, json
 
+          base_path = os.environ.get('BASE_PATH', '').rstrip('/')
           urls = set()
           for root, dirs, files in os.walk('_site'):
               for f in files:
@@ -49,12 +52,12 @@ jobs:
                       path = os.path.join(root, f)[len('_site'):]
                       if f == 'index.html':
                           path = os.path.dirname(path).rstrip('/') + '/'
-                      urls.add(path)
+                      urls.add(base_path + path)
 
           precache_json = json.dumps(sorted(urls))
           cache_version = os.environ['CACHE_VERSION']
 
-          sw_path = '_site/sw.js'
+          sw_path = '_site' + base_path + '/sw.js'
           content = open(sw_path).read()
           content = content.replace("'__CACHE_VERSION__'", "'" + cache_version + "'")
           content = content.replace('"__PRECACHE_URLS__"', precache_json)
