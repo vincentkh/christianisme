@@ -1,0 +1,39 @@
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#2a5885">
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').then(function (reg) {
+        function showUpdateBanner() {
+          if (document.getElementById('pwa-update')) return;
+          var bar = document.createElement('div');
+          bar.id = 'pwa-update';
+          bar.style.cssText = 'position:fixed;bottom:0;left:0;right:0;padding:12px 16px;'
+            + 'background:#2a5885;color:#fff;text-align:center;z-index:9999;font-size:14px;';
+          bar.innerHTML = 'Mise \u00e0 jour disponible\u00a0\u2013\u00a0'
+            + '<button id="pwa-reload" style="background:#fff;color:#2a5885;border:none;'
+            + 'padding:4px 10px;cursor:pointer;border-radius:3px;font-weight:bold;">'
+            + 'Rafra\u00eechir</button>';
+          document.body.appendChild(bar);
+          document.getElementById('pwa-reload').addEventListener('click', function () {
+            window.location.reload();
+          });
+        }
+
+        if (reg.waiting) {
+          showUpdateBanner();
+          return;
+        }
+
+        reg.addEventListener('updatefound', function () {
+          var sw = reg.installing;
+          sw.addEventListener('statechange', function () {
+            if (sw.state === 'installed' && navigator.serviceWorker.controller) {
+              showUpdateBanner();
+            }
+          });
+        });
+      });
+    });
+  }
+</script>
