@@ -31,6 +31,9 @@ jobs:
           source: ./
           destination: ./_site
 
+      - name: Fix _site permissions
+        run: sudo chown -R "$USER" _site
+
       - name: Inject cache version and precache list into sw.js
         run: |
           export CACHE_VERSION=$(date -u +%Y%m%d%H%M%S)
