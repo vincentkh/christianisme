@@ -57,7 +57,7 @@ jobs:
           precache_json = json.dumps(sorted(urls))
           cache_version = os.environ['CACHE_VERSION']
 
-          sw_path = '_site' + base_path + '/sw.js'
+          sw_path = '_site/sw.js'
           content = open(sw_path).read()
           content = content.replace("'__CACHE_VERSION__'", "'" + cache_version + "'")
           content = content.replace('"__PRECACHE_URLS__"', precache_json)
