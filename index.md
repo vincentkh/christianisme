@@ -55,6 +55,7 @@
 - [Prière du chauffeur](sainte-rita/priere-du-chauffeur)
 - [Supplication à sainte Rita](sainte-rita/supplication-a-sainte-rita)
 - [Prière pour la paix dans les familles](sainte-rita/priere-pour-la-paix-dans-les-familles)
+- [Prière pour aimer et pardonner à ses ennemis](sainte-rita/priere-pour-aimer-et-pardonner-a-ses-ennemis)
 
 ## Saint Augustin [>](saint-augustin)
 
