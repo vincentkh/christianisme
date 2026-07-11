@@ -59,6 +59,10 @@
 
 ## Saint François d'Assise [>](saint-francois-d-assise)
 
+## Saint Vincent Ferrier [>](saint-vincent-ferrier)
+
+- [Prière de saint Vincent Ferrier](saint-vincent-ferrier/priere-de-saint-vincent-ferrier)
+
 ## Prières
 
 - [Âme du Christ](prieres/ame-du-christ)
