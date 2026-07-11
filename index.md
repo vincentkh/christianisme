@@ -5,6 +5,10 @@
 - [Les onze anges gardiens du Pape](les-onze-anges-gardiens-du-pape)
 - [Quand viendra ton heure, Jésus viendra lui-même te chercher](quand-viendra-ton-heure-jesus-viendra-lui-meme-te-chercher)
 
+# Citations
+
+- [Citations](citations/index)
+
 ## L'Église Catholique [>](l-eglise-catholique)
 
 ## Saint Michel
