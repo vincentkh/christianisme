@@ -9,3 +9,6 @@
 > Je sens que je vais entrer dans le repos... Mais je sens surtout que ma mission va commencer, ma mission de faire aimer le Bon Dieu comme je l'aime, de donner une petite voie aux âmes. Si le Bon Dieu exauce mes désirs, mon Ciel se passera sur la terre jusqu'à la fin du monde. Oui, je veux passer mon Ciel à faire du bien sur la terre. (CJ 17,7)
 
 _Pendant les derniers mois de sa vie, les soeurs de Thérèse ont noté tout ce qu'elle disait et faisait. Au sommet de sa petite voie, au fond de la nuit de la foi, Thérèse vit son ultime ascension, d'où jaillissent certaines de ses paroles les plus puissantes._
+
+> Je n'ai pas peur des luttes de dernière heure. Je m'appuie sur Lui et je suis sûre qu'Il ne m'abandonnera pas.
+_Peu de temps avant sa mort_
