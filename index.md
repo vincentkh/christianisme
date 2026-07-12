@@ -32,6 +32,7 @@
 - [Prière à Saint Joseph efficace pour obtenir la pureté](saint-joseph/priere-a-saint-joseph-efficace-pour-obtenir-la-purete)
 - [Prière à Saint Joseph contre le stress et l'anxiété](saint-joseph/priere-a-saint-joseph-contre-le-stress-et-l-anxiete)
 - [Acte de consécration au glorieux Saint Joseph](saint-joseph/acte-de-consecration-au-glorieux-saint-joseph)
+- [Prière à Saint Joseph pour la délivrance des âmes du purgatoire](saint-joseph/priere-a-saint-joseph-pour-la-delivrance-des-ames-du-purgatoire)
 
 ## Saint Charbel [>](saint-charbel)
 
