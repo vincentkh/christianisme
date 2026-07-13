@@ -33,4 +33,4 @@ Le 6 janvier 1946, Van fait allusion à la fin du monde dont bien des gens disen
 
 10. Le 13 Octobre 1917, la Sainte Vierge dit aux trois enfants de Fatima: « Je suis Notre Dame du Rosaire. Je viens vous demander de dire tous les jours le chapelet et de changer de vie... A la fin, mon cœur Immaculé triomphera ».
 
-[Un amour sans limite (1942-1954) - L'amour ne peut mourir - Vie de Marcel Van]()
+[Un amour sans limite (1942-1954) - L'amour ne peut mourir - Vie de Marcel Van - Pages 204-207]()

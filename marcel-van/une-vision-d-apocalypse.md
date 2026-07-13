@@ -28,4 +28,4 @@ Puis, tout se calma. Le Sauveur donna un baiser à Van, lui recommanda de ne rie
 
 3. Cela ressemble fort au signe de la bête : « Tous, petits et grands, riches et pauvres, libres et esclaves, se feront marquer sur la main droite ou sur le front et nul ne pourra rien acheter ni vendre s’il n’est marqué au nom de la bête ou au chiffre de son nom… » (Ap 13, 16-17).
 
-[Un amour sans limite (1942-1954) - L'amour ne peut mourir - Vie de Marcel Van]()
+[Un amour sans limite (1942-1954) - L'amour ne peut mourir - Vie de Marcel Van - Pages 193-196]()
