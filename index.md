@@ -75,6 +75,7 @@
 - [Une vision d’apocalypse](marcel-van/une-vision-d-apocalypse)
 - [Van sauve un franc-maçon](marcel-van/van-sauve-un-franc-macon)
 - [Les apôtres de Marie](marcel-van/les-apotres-de-marie)
+- [La France et le Vietnam](marcel-van/la-france-et-le-vietnam)
 
 ## Prières
 
