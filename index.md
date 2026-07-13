@@ -70,6 +70,10 @@
 
 - [Prière de saint Vincent Ferrier](saint-vincent-ferrier/priere-de-saint-vincent-ferrier)
 
+## Marcel Van
+
+- [Les apôtres de Marie](marcel-van/les-apotres-de-marie)
+
 ## Prières
 
 - [Âme du Christ](prieres/ame-du-christ)
